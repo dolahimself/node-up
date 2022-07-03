@@ -1,0 +1,1 @@
+Here is the result of the write file sync method : this is first text file in my node js application, this is second text file in my node js application
